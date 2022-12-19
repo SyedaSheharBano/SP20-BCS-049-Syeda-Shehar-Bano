@@ -150,7 +150,7 @@ function login({ navigation }) {
     <View style={styles.container}>
       <Image
         style={styles.pic}
-        source={require("./assest/girl_icon.png")}
+        source={require("./assest/girl_icon.jpg")}
       ></Image>
       <Text style={styles.text_login}>Login</Text>
     </View>
